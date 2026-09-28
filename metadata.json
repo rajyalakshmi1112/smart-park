@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark Vizag",
+  "description": "Smart parking reservation and automated entry-management platform for Visakhapatnam. Pre-book, scan digital QR ticket, and park.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
